@@ -16,5 +16,6 @@
     "subtitles.craftsound.stone": "Stone Item Crafted",
     "subtitles.craftsound.water": "Water Item Crafted",
     "subtitles.craftsound.wear": "Item Put in Minecart",
-    "subtitles.craftsound.wood": "Wood Item Crafted"
+    "subtitles.craftsound.wood": "Wood Item Crafted",
+    "subtitles.null": ""
 }
