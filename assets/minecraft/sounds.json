@@ -9,7 +9,6 @@
     ]
   },
   "craftsound.chuck.1.b": {
-    "subtitle": "subtitles.null",
     "sounds": [
       {
         "name": "block.stone.break",
@@ -45,7 +44,6 @@
     ]
   },
   "craftsound.cloat.2.b": {
-    "subtitle": "subtitles.null",
     "sounds": [
       {
         "name": "block.crop.break",
@@ -54,7 +52,6 @@
     ]
   },
   "craftsound.cloat.2.c": {
-    "subtitle": "subtitles.null",
     "sounds": [
       {
         "name": "block.snow.break",
@@ -126,7 +123,6 @@
     ]
   },
   "craftsound.food.1.b": {
-    "subtitle": "subtitles.null",
     "sounds": [
       {
         "name": "block.wooden_button.click_off",
@@ -162,7 +158,6 @@
     ]
   },
   "craftsound.glass.2.b": {
-    "subtitle": "subtitles.null",
     "sounds": [
       {
         "name": "block.end_portal_frame.fill",
@@ -279,7 +274,6 @@
     ]
   },
   "craftsound.stone.2.b": {
-    "subtitle": "subtitles.null",
     "sounds": [
       {
         "name": "block.stone.break",
@@ -297,7 +291,6 @@
     ]
   },
   "craftsound.stone.3.b": {
-    "subtitle": "subtitles.null",
     "sounds": [
       {
         "name": "block.shulker_box.open",
