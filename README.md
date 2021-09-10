@@ -1,6 +1,7 @@
 # Craftsound Subtitles (Verbose)
 
-This pack adds verbose subtitles to the craftsound datapack.
+This pack adds verbose subtitles to the craftsound datapack.<br>
+If you're looking for basic subtitles, they are (or it is) available with <a href=https://github.com/IIJJ22GG/Craftsound-Subtitles>this resource pack</a>.
 
 To load this pack, you can simply drop a .zip of it in your resource packs folder. It's all ready to go with an en_us translation.
 
